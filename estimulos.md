@@ -51,9 +51,12 @@
 10. Cada facção enfrentou um processo penal rigoroso naquele ano.
 
 # Terminar
-11. Todos os bandos 
+11. Todos os bandos.
 ---
-Todos os bandos
-Todos os agrupamentos
-Todas as trupes
-Todas as multidões
+Todos os bandos.
+
+Todos os agrupamentos.
+
+Todas as trupes.
+
+Todas as multidões.
